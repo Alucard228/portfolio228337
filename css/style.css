@@ -65,11 +65,23 @@ h3 {
   display: flex;
 }
 
+.nav__link.active {
+  color: #FF6464;
+}
 .nav__item {
   margin-left: 33px;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
+}
+
+.works-page__title {
+  color: #21243D;
+}
+
+.works__title {
+  font-size: 30px;
+  color: #21243D;
 }
 
 .title {
@@ -302,6 +314,7 @@ h3 {
 
 .blog__title {
   color: #21243D;
+
 }
  
 .blog__article {
