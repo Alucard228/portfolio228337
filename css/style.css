@@ -14,5 +14,45 @@
 }
 
 .ice-cream__img {
+  width: 100%;
+}
+
+.ice-cream__img-wrap {
+  max-width: 580px;
+}
+
+.ice-cream__title {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.ice-cream__text {
+  font-style: 400px;
+  font-size: 16px;
+  opacity: 0.7;
+  font-weight: 400px;
+  margin-bottom: 20px;
+}
+
+.ice-cream__date {
+  font-size: 26px;
+  font-weight: 500px;
+ 
+}
+
+.ice-cream__deta {
+  font-weight: 500px;
+  font-size: 20px;
+  text-decoration: line-through;
+  color: darkgrey;
   
+}
+
+.ice-cream__button {
+ background-color: #D64374;
+ border-radius: 5px;
+ border: #D64374;
+ padding: 15px 46px 15px;
+ color: white;
+ margin-top: 15px;
 }
